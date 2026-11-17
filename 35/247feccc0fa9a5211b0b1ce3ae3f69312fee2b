@@ -1,0 +1,32 @@
+README.md
+  h_6fe0b9ebd4972e 5,112
+config.go
+  h_6fe0b9ebd4972e 13-14
+go.mod
+  h_6fe0b9ebd4972e 1
+memongo.go
+  h_6fe0b9ebd4972e 16-17
+memongo_test.go
+  h_6fe0b9ebd4972e 9-10
+mongobin/downloadSpec_test.go
+  h_6fe0b9ebd4972e 7
+mongobin/downloadURL_test.go
+  h_6fe0b9ebd4972e 8
+mongobin/getOrDownload.go
+  h_6fe0b9ebd4972e 20
+mongobin/getOrDownload_test.go
+  h_6fe0b9ebd4972e 10-12
+random_test.go
+  h_6fe0b9ebd4972e 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "35247feccc0fa9a5211b0b1ce3ae3f69312fee2b",
+  "prompts": {},
+  "humans": {
+    "h_6fe0b9ebd4972e": {
+      "author": "Josep Damià Carbonell Seguí <josepdcs@ext.inditex.com>"
+    }
+  }
+}
