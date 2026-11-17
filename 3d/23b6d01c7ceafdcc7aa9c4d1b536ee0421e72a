@@ -1,0 +1,32 @@
+.idea/.gitignore
+  h_6fe0b9ebd4972e 1-10
+.idea/go.imports.xml
+  h_6fe0b9ebd4972e 1-10
+.idea/golinter.xml
+  h_6fe0b9ebd4972e 1-7
+.idea/memongo.iml
+  h_6fe0b9ebd4972e 1-9
+.idea/modules.xml
+  h_6fe0b9ebd4972e 1-8
+.idea/vcs.xml
+  h_6fe0b9ebd4972e 1-6
+go.mod
+  h_6fe0b9ebd4972e 3,6,8-10,14-15,18-21
+go.sum
+  h_6fe0b9ebd4972e 1-2,9-16,23-26,30-31,42-43,58-59
+mongobin/getOrDownload.go
+  h_6fe0b9ebd4972e 143-150,154-163,165-171,174-177
+mongobin/getOrDownload_test.go
+  h_6fe0b9ebd4972e 116-160
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3d23b6d01c7ceafdcc7aa9c4d1b536ee0421e72a",
+  "prompts": {},
+  "humans": {
+    "h_6fe0b9ebd4972e": {
+      "author": "Josep Damià Carbonell Seguí <josepdcs@ext.inditex.com>"
+    }
+  }
+}
