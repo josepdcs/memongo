@@ -1,4 +1,4 @@
-module github.com/tryvium-travels/memongo
+module github.com/josepdcs/memongo
 
 go 1.26.0
 

@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/tryvium-travels/memongo"
-	"github.com/tryvium-travels/memongo/memongolog"
+	"github.com/josepdcs/memongo"
+	"github.com/josepdcs/memongo/memongolog"
 
 	"github.com/stretchr/testify/require"
 	"go.mongodb.org/mongo-driver/v2/bson"
